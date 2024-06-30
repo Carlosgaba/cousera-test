@@ -1,3 +1,3 @@
 # cousera-test
-repositoriooo test de Coursera
+repositori test de Coursera
 
